@@ -1,0 +1,6 @@
+backend/app/trees.db
+backend/.env
+frontend/.env.local
+frontend/.env
+node_modules/
+dist/
